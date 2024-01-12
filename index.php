@@ -17,8 +17,9 @@
 */
 
 
-/* 02: create a variable called name and set it equal to "Dave" 
-   Output the variable 
+/* EXAMPLE:
+    02: create a variable called name and set it equal to "Dave" 
+    Output the variable 
 
    In this example, I'll set the variable under this question. 
    Then I will scroll down and output the variable inside the 
