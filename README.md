@@ -18,7 +18,7 @@ _Once you are working with your own copy of this assignment..._
 **Complete the problems listed at the top of the index.php** file
 according to the instructions given in the comments.
 
-_DO NOT CHANGE any of the pre-existing code in main.js or any other files._
+_DO NOT CHANGE any of the pre-existing code except where your output should go in index.php - this includes any other files._
 
 Did you miss some?
 
