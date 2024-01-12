@@ -8,6 +8,7 @@
 - ...or any PHP server you want to use will also work.
 
 ### 👀 Viewing the Assignment:
+- The problems are listed at the top of the _index.php_ file.
 - You will want to view the generated web page as you complete the code problems. 
 - **Note:** PHP will require you to manually _refresh the page_ to apply your changes. 
 - If you are running the project locally with XAMPP, direct your browser to: localhost/inf653_php_practice01/ ..just an example path.

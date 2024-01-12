@@ -24,7 +24,7 @@
    Then I will scroll down and output the variable inside the 
    HTML list item for question #2. 
 */
-
+$name = "Dave";
 
 /* 03: create a variable called num and set it equal to 1984
    Output the variable
