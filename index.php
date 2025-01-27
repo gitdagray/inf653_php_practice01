@@ -68,7 +68,7 @@ $name = "Dave";
 
 
 /* 10: create a variable called lastNum and set it equal to 99. 
-    Use the decrement operator to subtract 1 from myNum. 
+    Use the decrement operator to subtract 1 from lastNum. 
     Output the new value
 */
 
