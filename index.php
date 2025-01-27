@@ -30,48 +30,49 @@ $name = "Dave";
 /* 03: create a variable called num and set it equal to 1984
    Output the variable
 */
-
+$num = 1984;
 
 /* 04: create a variable called dbl and set it equal to 99.956
    Output the variable
 */
-
+$dbl = 99.956;
 
 /* 05: create a variable called bool and set it equal to true
    Output the variable - might not be what you expect!
 */
-
+$bool = true;
 
 /* 06: create a variable called band and set it equal to "Van Halen"
    Concatenate band and the num variable you created above to
    output the phrase:
    "1984 is my fave Van Halen album."
 */
-
+$band = "Van Halen";
+$phrase = "$num is my fave $band album.";
 
 /* 07: create an array called names.
   Put the names "Jane", "John", and "Jody" in the array
   Output "John" from the array
 */
-
+$names = ["Jane", "John", "Jody"];
 
 /* 08: define a constant variable called COURSE.
    Assign COURSE the value of "INF653"
    Output the constant variable
 */
-
+define("COURSE", "INF653");
 
 /* 09: create a variable called myNum and set it equal to 50.  
     Add 16 to the variable myNum using a compound operator _when_ 
     you output the new value
 */
-
+$myNum = 50;
 
 /* 10: create a variable called lastNum and set it equal to 99. 
     Use the decrement operator to subtract 1 from lastNum. 
     Output the new value
 */
-
+$lastNum = 99;
 
 ?>
 <html>
