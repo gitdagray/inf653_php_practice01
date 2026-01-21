@@ -1,9 +1,6 @@
 # Practice Assignment 1
 
-[![Run on Repl.it](https://repl.it/badge/github/gitdagray/inf653_php_practice01)](https://repl.it/github/gitdagray/inf653_php_practice01)
-
-### 💻 Options for Running this Code:
-- You can create a free [Repl.it](https://replit.com/) account and launch this assignment there by clicking the "Run on Repl.it" button above. 
+### 💻 To Run this Code:
 - You can download this assignment, put it in the "htdocs" folder inside your XAMPP folder, and run it locally with XAMPP.
 - ...or any PHP server you want to use will also work.
 
